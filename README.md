@@ -1,2 +1,5 @@
 # hell-world
-just another repository
+
+Hi Hooomaans! 
+
+Alvin here, I like to build my first T1000.
